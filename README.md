@@ -1,1 +1,0 @@
-# SIEM-SOC-Operations
